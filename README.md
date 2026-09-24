@@ -7,4 +7,5 @@ Target Object: PowerOutlet - Represents a standard power outlet with a common in
 
 Adapter Objects: LaptopAdapter - An adapter for plugging a laptop into a standard power outlet. It adapts the Laptop to the PowerOutlet interface, translating plugIn() to charge(). RefrigeratorAdapter - An adapter for plugging a refrigerator into a standard power outlet. It adapts the Refrigerator to the PowerOutlet interface, translating plugIn() to startCooling(). SmartphoneAdapter - An adapter for plugging a smartphone charger into a standard power outlet. It adapts the SmartphoneCharger to the PowerOutlet interface, translating plugIn() to chargePhone().
 
-![Alt Text](af7ae17a-217d-4eed-ad71-379cb8d3f0a9)
+<img width="1280" height="943" alt="photo_2026-09-24_22-23-00" src="https://github.com/user-attachments/assets/6ae2290e-878c-4a45-b1b9-8adc141cc4ed" />
+
